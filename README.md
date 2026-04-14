@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou André Spinola Castor
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrerspinola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de André Spinola Castor" height="180em" />
+img src="https://github-readme-streak-stats.herokuapp.com/?user=andrerspinola&theme=tokyonight" alt="GitHub Streak de André Spinola Castor" height="180em" />
  
 </p>
 
