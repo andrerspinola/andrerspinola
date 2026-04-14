@@ -7,10 +7,16 @@
 
 ---
 
-### 🎓 Sobre mim
+### 🎓 Formação e Experiência
 - 🚀 **Estudante de Engenharia de Software** na FIAP.
+- 🎓 **Técnico em Informática para a Internet**.
 - 💻 Focado em desenvolvimento **Java (Back-end)** e **React/JavaScript (Front-end)**.
 - 📍 Localizado em São Paulo, Brasil.
+
+---
+
+### 🏆 Projetos em Destaque
+- 📊 **Calculadora de Gás Carbônico (TCC):** Desenvolvi uma ferramenta focada em sustentabilidade para cálculo de emissão de CO2, aplicando lógica de programação e impacto ambiental.
 
 ---
 
@@ -48,9 +54,9 @@
 ---
 
 ### 🧠 Atualmente aprendendo
-* ☕ **Spring Boot** para desenvolvimento de APIs.
+* ☕ **Spring Boot** para desenvolvimento de APIs robustas.
 * 🏗️ **Arquitetura de Sistemas** e modelagem de dados.
-* ⚛️ **Integrações Fullstack** complexas.
+* ⚛️ **Integrações Fullstack** modernas.
 
 ---
 
