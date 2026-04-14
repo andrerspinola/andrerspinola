@@ -1,4 +1,3 @@
-# 👋 Olá, eu sou André Spinola
 
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=André%20Spinola%20Castor&fontSize=70&animation=fadeIn" alt="Header Animado" />
