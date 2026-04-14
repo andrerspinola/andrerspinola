@@ -1,26 +1,8 @@
 # 👋 Olá, eu sou André Spinola Castor
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=André%20Spinola%20Castor&fontSize=70&animation=fadeIn" alt="Header Animado" />
-</p>
-
-### 📊 Estatísticas e Linguagens
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrerspinola&theme=tokyonight" alt="GitHub Streak" height="170em" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrerspinola&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" height="170em" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=andrerspinola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrerspinola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de André Spinola Castor" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrerspinola&theme=tokyonight" alt="GitHub Streak de André Spinola Castor" height="180em" />
 </p>
 
 ---
@@ -29,23 +11,24 @@
 - 🚀 **Estudante de Engenharia de Software** na FIAP.
 - 🎓 **Técnico em Informática para a Internet**.
 - 💻 Focado em desenvolvimento **Java (Back-end)** e **React/JavaScript (Front-end)**.
-- 📍 São Paulo, Brasil.
+- 📍 Localizado em São Paulo, Brasil.
 
 ---
 
-### 🏆 Conquistas e Projetos
+### 🏆 Conquistas e Projetos em Destaque
+
 #### ⚽ Challenge FIAP 2025 - FutBolinas (TOP 30)
-Nosso projeto foi selecionado entre os 30 melhores de 116 grupos! O **FutBolinas** é um fantasy game de futebol feminino com:
-- Montagem de times reais e pontuação por desempenho.
-- Chatbot inteligente (**Botbolista**) para auxílio às atletas.
-- Recursos VIP com estatísticas avançadas.
+É com muita alegria que compartilho que nosso projeto **FutBolinas** foi selecionado para a próxima fase do **Challenge FIAP 2025**! De 116 grupos participantes, apenas 30 avançaram e tive a honra de estar entre eles. O FutBolinas é um fantasy game inovador de futebol feminino:
+- Monte seu time com atletas reais e pontue pelo desempenho.
+- Apoio do **Botbolista**, um chatbot inteligente para encontrar escolas de futebol feminino.
+- Modo VIP com estatísticas avançadas e recursos exclusivos.
 
 #### 📊 Calculadora de Gás Carbônico (TCC)
-Ferramenta de impacto ambiental para cálculo de emissão de CO2 desenvolvida como projeto final técnica.
+Desenvolvi, como projeto de conclusão de curso, uma ferramenta focada em sustentabilidade para cálculo de emissão de CO2, aplicando lógica de programação para medir o impacto ambiental.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas (Clique para ver meus projetos)
 <div align="left">
   <a href="https://github.com/andrerspinola?tab=repositories&q=&type=&language=java">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -57,20 +40,30 @@ Ferramenta de impacto ambiental para cálculo de emissão de CO2 desenvolvida co
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   </a>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ---
 
 ### 📫 Conecte-se comigo
-<p align="left">
+<div align="left">
   <a href="https://www.linkedin.com/in/andré-spinola-castor-b2008a357/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de André Spinola Castor" />
   </a>
   <a href="https://www.instagram.com/dehspinola_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de André Spinola Castor" />
   </a>
   <a href="mailto:andrecastor828@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail de André Spinola Castor" />
   </a>
-</p>
+</div>
+
+---
+
+### 🧠 Atualmente aprendendo
+* ☕ **Spring Boot** para desenvolvimento de APIs.
+* 🏗️ **Arquitetura de Sistemas** e modelagem de dados complexos.
+* ⚛️ **Integrações Fullstack** modernas.
+
+---
