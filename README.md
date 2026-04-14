@@ -1,4 +1,9 @@
-#  Olá, eu sou André Spinola
+# 👋 Olá, eu sou André Spinola Castor
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrerspinola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de André Spinola Castor" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrerspinola&theme=tokyonight" alt="GitHub Streak de André Spinola Castor" height="180em" />
+</p>
 
 ---
 
@@ -44,13 +49,13 @@ Desenvolvi, como projeto de conclusão de curso, uma ferramenta focada em susten
 ### 📫 Conecte-se comigo
 <div align="left">
   <a href="https://www.linkedin.com/in/andré-spinola-castor-b2008a357/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de André Spinola Castor" />
   </a>
   <a href="https://www.instagram.com/dehspinola_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de André Spinola Castor" />
   </a>
   <a href="mailto:andrecastor828@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail de André Spinola Castor" />
   </a>
 </div>
 
@@ -62,7 +67,3 @@ Desenvolvi, como projeto de conclusão de curso, uma ferramenta focada em susten
 * ⚛️ **Integrações Fullstack** modernas.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrerspinola&theme=tokyonight" alt="GitHub Streak" />
-</p>
