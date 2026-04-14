@@ -15,8 +15,16 @@
 
 ---
 
-### 🏆 Projetos em Destaque
-- 📊 **Calculadora de Gás Carbônico (TCC):** Desenvolvi uma ferramenta focada em sustentabilidade para cálculo de emissão de CO2, aplicando lógica de programação e impacto ambiental.
+### 🏆 Conquistas e Projetos em Destaque
+
+#### ⚽ Challenge FIAP 2025 - FutBolinas (TOP 30)
+É com muita alegria que compartilho que nosso projeto **FutBolinas** foi selecionado para a próxima fase do **Challenge FIAP 2025**! De 116 grupos participantes, apenas 30 avançaram e tive a honra de estar entre eles. O FutBolinas é um fantasy game inovador de futebol feminino:
+- Monte seu time com atletas reais e pontue pelo desempenho.
+- Apoio do **Botbolista**, um chatbot inteligente para encontrar escolas de futebol feminino.
+- Modo VIP com estatísticas avançadas e recursos exclusivos.
+
+#### 📊 Calculadora de Gás Carbônico (TCC)
+Desenvolvi, como projeto de conclusão de curso, uma ferramenta focada em sustentabilidade para cálculo de emissão de CO2, aplicando lógica de programação para medir o impacto ambiental.
 
 ---
 
@@ -54,8 +62,8 @@
 ---
 
 ### 🧠 Atualmente aprendendo
-* ☕ **Spring Boot** para desenvolvimento de APIs robustas.
-* 🏗️ **Arquitetura de Sistemas** e modelagem de dados.
+* ☕ **Spring Boot** para desenvolvimento de APIs.
+* 🏗️ **Arquitetura de Sistemas** e modelagem de dados complexos.
 * ⚛️ **Integrações Fullstack** modernas.
 
 ---
