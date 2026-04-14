@@ -9,7 +9,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrerspinola&theme=tokyonight" alt="Streak Animado" height="170em" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrerspinola&theme=tokyonight" alt="GitHub Streak" height="170em" />
       </td>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrerspinola&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" height="170em" />
@@ -41,7 +41,7 @@ Nosso projeto foi selecionado entre os 30 melhores de 116 grupos! O **FutBolinas
 - Recursos VIP com estatísticas avançadas.
 
 #### 📊 Calculadora de Gás Carbônico (TCC)
-Ferramenta de impacto ambiental para cálculo de emissão de CO2.
+Ferramenta de impacto ambiental para cálculo de emissão de CO2 desenvolvida como projeto final técnica.
 
 ---
 
